@@ -1,6 +1,6 @@
 # opentja.github.io
-OpenTJA Web Site
+Hexai Research Lab
 
 
-## This is the OpenTJA home page: [https://opentja.github.io/](https://opentja.github.io)
+## This is the OpenTJA home page: [https://hexai.github.io/](https://hexai.github.io)
 
