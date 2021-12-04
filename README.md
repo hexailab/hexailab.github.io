@@ -1,6 +1,6 @@
 # hexailab.github.io
-HexaiLab Research Lab
+HexAI Research Lab
 
 
-## This is the hexailab home page: [https://hexailab.github.io/](https://hexailab.github.io)
+## This is the HexAI Lab home page: [https://hexailab.github.io/](https://hexailab.github.io)
 
