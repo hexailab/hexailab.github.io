@@ -1,4 +1,4 @@
-# hexai.github.io
+# hexailab.github.io
 HexaiLab Research Lab
 
 
